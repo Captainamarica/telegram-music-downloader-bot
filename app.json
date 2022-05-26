@@ -1,8 +1,8 @@
 {
-  "name": "telegram-music-downloader-bot",
+  "name": "Night Vission music downloader",
   "description": "YouTube Music Downloader Bot for Telegram. ",
 	"stack": "container",
-  "repository": "https://github.com/henriqueclaranhan/telegram-music-downloader-bot",
+  "repository": "https://github.com/Captainamarica/telegram-music-downloader-bot",
   "keywords": [
   "python", 
   "chatbot", 
@@ -13,7 +13,7 @@
   "env": {
     "TOKEN": {
       "description": "Make a bot at BotFather http://telegram.dog/BotFather and get the token of your bot",
-      "value": "",
+      "value": "5333268268:AAGbl4fCvwnHPPheMAMHCMbIZJUm8b9U6_o",
       "required": true
     }
   }
